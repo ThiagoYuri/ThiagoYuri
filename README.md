@@ -12,10 +12,10 @@
   <img align="center" alt="Th-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Th-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Th-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Th-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-  <img align="right" alt="Th-luff" height="300" width="300" src="https://media1.tenor.com/images/434a94f5116b74df9b1356d89d20de0a/tenor.gif?itemid=4877154">
 </div>
-
+<div style="display: inline_block"><br>   
+  <img align="right" alt="Th-luff" height="200" width="200" src="https://media1.tenor.com/images/434a94f5116b74df9b1356d89d20de0a/tenor.gif?itemid=4877154">
+</div>
 
 
 
