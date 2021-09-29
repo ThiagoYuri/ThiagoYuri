@@ -16,9 +16,3 @@
 <div style="display: inline_block"><br>   
   <img align="right" alt="Th-luff" height="200" width="200" src="https://media1.tenor.com/images/434a94f5116b74df9b1356d89d20de0a/tenor.gif?itemid=4877154">
 </div>
-
-
-
-<!--
-**
--->
