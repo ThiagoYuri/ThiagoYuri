@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Olá meu nome e Thiago Yuri, programador Full-Stack.</h2>
+  <h2>Olá meu nome é Thiago Yuri, programador Full-Stack.</h2>
 <div>
   <a href="https://github.com/ThiagoYuri">
   <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYuri&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> 
