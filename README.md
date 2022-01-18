@@ -3,8 +3,8 @@
   <h2>Olá meu nome é Thiago Yuri, programador Full-Stack.</h2>
 <div>
   <a href="https://github.com/ThiagoYuri">
-  <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYuri&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoYuri&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYuri&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoYuri&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <div style="display: inline_block"><br> 
