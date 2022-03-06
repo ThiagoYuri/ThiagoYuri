@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=100&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;I'am+Full-Stack+developer!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=60&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;"/>
 <div>
   <a href="https://github.com/ThiagoYuri">
   <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYuri&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
@@ -31,13 +31,22 @@
  
   
  <hr>
-  <h3>Redes Sociais</h3>
+  <h3 align="center">About me</h3>
+       <tr align="left"> 
+            <th>
+                I get started programming when I was 15 years and</br>
+                went competitor in the Knowledge Olympics.</br>
+                I am an extremely excited person to learn and</br>
+                I love new challenges and experiences</br>
+            </th>
+        </tr>
+ <hr>
+  <h3>Social Networks</h3>
   <div> 
   <a href="https://instagram.com/thiagoyuri.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagoyur0109@"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-yuri-1b467b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
 
   
 </div>
