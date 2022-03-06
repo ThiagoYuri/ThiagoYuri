@@ -32,7 +32,8 @@
   
  <hr>
   <h3 align="center">About me</h3>
-       <tr align="left"> 
+    <div align="center">   
+        <tr align="left"> 
             <th>
                 I get started programming when I was 15 years and</br>
                 went competitor in the Knowledge Olympics.</br>
@@ -40,6 +41,7 @@
                 I love new challenges and experiences</br>
             </th>
         </tr>
+      </div>
  <hr>
   <h3>Social Networks</h3>
   <div> 
