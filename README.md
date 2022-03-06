@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=100&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;I'am+developer+Full-Stack!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=100&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;I'am+Full-Stack+developer!;"/>
 <div>
   <a href="https://github.com/ThiagoYuri">
   <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYuri&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
