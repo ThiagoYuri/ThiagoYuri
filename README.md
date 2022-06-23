@@ -3,8 +3,8 @@
 <img  src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=60&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;"/>
     </div>
  
- 
-<img align="right" width="200" height="200" src="http://www.fillmurray.com/200/200">
+ <h5 align="left">👨🏻‍💻 About me</h4> 
+<img align="right" width="300" height="200" src="person.gif">
 <p align="left">
         I get started programming when I was 15 years and </br>
         went competitor in the Knowledge Olympics.</br>
