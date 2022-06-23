@@ -3,7 +3,7 @@
 <img  src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=60&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;"/>
     </div>
  
- <h5 align="left">👨🏻‍💻 About me</h4> 
+  ### **👨🏻‍💻 About me**
 <img align="right" width="300" height="200" src="person.gif">
 <p align="left">
         I get started programming when I was 15 years and </br>
@@ -11,7 +11,8 @@
         I am an extremely excited person to learn and</br>
         I love new challenges and experiences</br>
 </p>
-<h5 align="left">🚀 My stacks</h4> 
+
+  ### **🚀 My stacks**
 <p align="left">
         Avanced Knowledge in C#, Javascript, Design Patterns and Database.</br>
         The main programming language I use is C#. Knowledge in dependencies</br>
