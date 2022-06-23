@@ -15,7 +15,7 @@
   ### **🚀 My stacks**
 <p align="left">
         Avanced Knowledge in C#, Javascript, Design Patterns and Database.</br>
-        The main programming language I use is C#. Knowledge in dependencies</br>
+        Main programming language I use is C#. Knowledge in dependencies</br>
         Injection in project ADO NET and unit test in code using XUnit.</br>
         My framework favorite in front-end and back-end is React, Entityframework, JQuery, Bootstrap.</br>
         Knowledge in identity and relations, procedures, views and functions in SQL-Server.</br   
