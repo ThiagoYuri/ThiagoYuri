@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-<img  src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=60&lines=Welcome+to+my+repository;+my+name+is+Thiago+Yuri.;"/>
+<img  src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=60&lines=Welcome+to+my+github;+my+name+is+Thiago+Yuri.;"/>
     </div>
  
   ### **👨🏻‍💻 About me**
