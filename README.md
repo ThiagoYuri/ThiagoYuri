@@ -21,6 +21,8 @@
         Knowledge in identity and relations, procedures, views and functions in SQL-Server.</br   
         Knowledge of RabbitMQ messaging system.</br>        
 </p>
+
+  ### **📝 Experiences**
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ThiagoYuri" alt="ThiagoYuri" /></p>   
 <div>
     
