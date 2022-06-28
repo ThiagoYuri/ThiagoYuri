@@ -37,9 +37,6 @@
   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYuri&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoYuri&layout=compact&langs_count=7&theme=react"/>
   </div
-  <div>
-  <image align="center" src="https://raw.githubusercontent.com/ThiagoYuri/ThiagoYuri/main/github-contribution-grid-snake.svg"/>
-  </div>
     
 </div>
 
