@@ -26,6 +26,7 @@
   <p align="left">
     SENAI - Business software solutions (2018 ~ 2022)    </br>  
     WhiteCube - Data engineer (2022 ~ ----)  </br> 
+    IESB - Analysis and systems development (2022 ~ ----)  </br> 
     </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ThiagoYuri" alt="ThiagoYuri" /></p>   
 <div>
